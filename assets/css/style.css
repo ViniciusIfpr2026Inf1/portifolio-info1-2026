@@ -1,1 +1,25 @@
-p {  font-family: Arial, sans-serif; font-size: 14 px; }
+p {
+      font-family: Arial, sans-serif; font-size: 14 px;
+    }
+header { 
+    background-color:blue;
+    padding: 10px;
+}
+nav {
+    background-color:darkorange
+}
+main {
+    background-color:lightgray
+}
+article {
+    background-color:green
+}
+section {
+    background-color:yellow
+}
+aside {
+    background-color:purple
+}
+footer {
+    background-color:black
+}
